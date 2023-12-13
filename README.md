@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on software development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristiancastano852/)
 <!--
 **cristiancastano852/cristiancastano852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,9 +11,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristiancastano852/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My contribution to projects this year:
+My contribution to projects this year: 
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cristiancastano852)](https://github.com/LordDashMe/github-contribution-stats/)
