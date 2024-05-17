@@ -153,3 +153,12 @@ releasing work publicly on the Web.
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+
+## Repository Statistics
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/cristiancastano852/cristiancastano852/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/cristiancastano852/cristiancastano852/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
