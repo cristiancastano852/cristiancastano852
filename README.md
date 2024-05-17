@@ -162,3 +162,9 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/cristiancastano852/cristiancastano852/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/cristiancastano852/cristiancastano852/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
+
+![ss](https://raw.githubusercontent.com/cristiancastano852/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![saa](https://raw.githubusercontent.com/cristiancastano852/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![sdsd](https://raw.githubusercontent.com/cristiancastano852/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![www](https://raw.githubusercontent.com/cristiancastano852/github-stats/master/generated/overview.svg#gh-light-mode-only)
