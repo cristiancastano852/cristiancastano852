@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🧑‍🎓 I'm systems engineer
-- 🔭 I’m currently working on software development
+- 🔭 I’m currently working on Back-end software development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristiancastano852/)
 <!--
 **cristiancastano852/cristiancastano852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
